@@ -1,0 +1,11 @@
+to do:
+switch between rectangle and polygon selector for HK!=0 CTRs
+
+Button to shift all ROI by 1 pixel
+Bottom row plots = row with max int + background
+
+
+read CIF files?
+https://pypi.org/project/PyCifRW/4.3/
+https://pypi.org/project/IVisual/
+
